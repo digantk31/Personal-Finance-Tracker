@@ -20,7 +20,7 @@ This project is a personal finance tracker inspired by a YouTube video tutorial 
 
 ## Acknowledgments
 
-- Tutorial by [TechWithTim](https://www.youtube.com/@TechWithTim) for the original code structure and concepts.
+- Tutorial by TechWithTim [YouTube](https://www.youtube.com/@TechWithTim) and [GitHub](https://github.com/techwithtim) for the original code structure and concepts.
 
 ## Note:
 
