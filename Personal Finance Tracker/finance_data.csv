@@ -1,0 +1,31 @@
+date,amount,category,description
+02-01-2024,55.10,Expense,Coffee
+15-01-2024,42.50,Expense,Snacks
+23-01-2024,220.35,Income,Gift
+04-02-2024,310.25,Income,Freelance
+17-02-2024,105.85,Expense,Books
+28-02-2024,75.60,Expense,Transport
+05-03-2024,410.95,Income,Project
+12-03-2024,95.15,Expense,Restaurant
+19-03-2024,65.75,Expense,Utilities
+01-04-2024,510.40,Income,Bonus
+10-04-2024,48.35,Expense,Stationery
+25-04-2024,155.00,Income,Part-time Job
+03-05-2024,210.25,Expense,Clothing
+14-05-2024,85.90,Expense,Entertainment
+21-05-2024,255.65,Income,Dividends
+01-06-2024,60.75,Expense,Internet Bill
+18-06-2024,120.50,Expense,Electricity Bill
+22-06-2024,450.00,Income,Freelance Project
+05-07-2024,70.30,Expense,Gym Membership
+11-07-2024,300.00,Income,Stock Dividends
+19-07-2024,35.20,Expense,Parking
+23-07-2024,95.60,Expense,Grocery
+01-08-2024,500.00,Income,Part-time Job
+08-08-2024,55.40,Expense,Pet Food
+15-08-2024,120.00,Expense,Clothing
+20-08-2024,75.15,Expense,Movie Tickets
+30-08-2024,350.50,Income,Freelance Work
+05-09-2024,85.30,Expense,Books
+12-09-2024,60.00,Expense,Transport
+14-07-2024,200.00,Income,Gift
